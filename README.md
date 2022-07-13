@@ -2,7 +2,7 @@
 
 
 It's Always KATurday
-- 👋 Hi, I’m Kat and I lovvvvvve a good story 📖
+- 👋 Hi, I’m Kat and I try to share all the good vibes with folks I meet. 📖
 - 👀 I’m interested in automating the things, learning the things, securing the things, reducing pain for teams auditing the things
 - 🌱 The more I learn the less I know. Lately, it's K8s and its intersections with InfoSec best practices.
 - 📫 Check my linkedIn https://www.linkedin.com/in/katharine-alma-yi
